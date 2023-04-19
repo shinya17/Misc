@@ -1,0 +1,56 @@
+[
+  {
+    "color": "brown",
+    "type": "cat",
+    "size": "nano",
+    "name": "Rusty"
+  },
+  {
+    "color": "white",
+    "type": "cat",
+    "size": "nano",
+    "name": "Shiro"
+  },
+  {
+    "color": "gray",
+    "type": "cat",
+    "size": "nano",
+    "name": "Zeus"
+  },
+  {
+    "color": "lightbrown",
+    "type": "cat",
+    "size": "nano",
+    "name": "Binx"
+  },
+  {
+    "color": "black",
+    "type": "cat",
+    "size": "nano",
+    "name": "Murphy"
+  },
+  {
+    "color": "brown",
+    "type": "cat",
+    "size": "nano",
+    "name": "Frankie"
+  },
+  {
+    "color": "gray",
+    "type": "cat",
+    "size": "nano",
+    "name": "Benji"
+  },
+  {
+    "color": "white",
+    "type": "cat",
+    "size": "nano",
+    "name": "Rusty"
+  },
+  {
+    "color": "white",
+    "type": "cat",
+    "size": "nano",
+    "name": "Willow"
+  }
+]
