@@ -4,6 +4,15 @@ https://www.markdownguide.org/basic-syntax/#lists-1
 because it's difficult to remember all of them and incorpoerate otherwise
 (for example, https://code.visualstudio.com/docs/editor/editingevolved)
 
+- sora the troll livestream collection. simply because some people need it. we need to get links to the videos. sources of links are,
+1. playlists 
+2. notifications
+3. referrals (less reliable)
+
+<br>
+when unlisted videos are saved in a playlist they are visible to everyone. so we'll find playlists from searching and from looking for the active subscribers, the more active the more chances for them to save. <br>
+also notifications is a source of link
+
 - converting daily life into wiki. there is a meaning of connection and value transferring
 either own or like bizdev
 
